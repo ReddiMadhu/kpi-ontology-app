@@ -1,0 +1,1 @@
+export { KPIOntologyBankView } from './KPIOntologyBankView';
